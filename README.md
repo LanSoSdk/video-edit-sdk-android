@@ -1,4 +1,7 @@
-### This is the simplest demo of Lansong SDK.
+### This is the simplest demo of Lansong SDK(SDK最简单的演示).
+
+- **Our SDK has been established for more than 3 years. To facilitate downloading, the code was migrated from the original warehouse.(sdk已经运行3年多, 为了方便下载,从原仓库迁移而来)**
+- Original warehouse address(原仓库地址):  https://github.com/LanSoSdk/LanSoEditor_advance
 
 #### The current version is 4.2.5
  [中文说明](https://github.com/LanSoSdk/LanSoEditor_advance/blob/master/README.cn.md)
