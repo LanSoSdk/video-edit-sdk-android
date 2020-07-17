@@ -1,0 +1,53 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion 29
+//    buildToolsVersion "27.0.3"
+
+    defaultConfig {
+        applicationId "com.lansoeditor.gzj"
+        minSdkVersion 18
+        targetSdkVersion 29
+        compileOptions {
+            sourceCompatibility JavaVersion.VERSION_1_8
+            targetCompatibility JavaVersion.VERSION_1_8
+        }
+
+        //这里一定是   abiFilters 'arm64-v8a' 尽量不要用 armeabi-v7a  LSDELETE
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.txt'
+        }
+    }
+}
+
+dependencies {
+    implementation 'com.google.code.gson:gson:2.2.4'
+
+    implementation 'androidx.appcompat:appcompat:1.0.0'
+
+
+    implementation project(':LanSongSDK')
+
+
+    //一下jar均为来自网络的开源库, 仅用作demo的效果演示, 不属于sdk的一部分;
+//    implementation files('libs/android-support-v7-recyclerview.jar')
+    implementation 'androidx.recyclerview:recyclerview:1.0.0'
+    implementation 'androidx.cardview:cardview:1.0.0'
+    implementation files('libs/PermissionsManager.jar')
+    implementation files('libs/textsurface.jar')
+    implementation files('libs/particlelibrary.jar')
+
+
+    //演示界面使用了第三方控件;需要在allproject中增加 maven { url 'https://jitpack.io' }
+    implementation 'com.github.CymChad:BaseRecyclerViewAdapterHelper:2.9.30'
+    implementation 'com.github.warkiz.widget:indicatorseekbar:1.2.9'
+
+    implementation 'com.github.bumptech.glide:glide:4.10.0'
+    implementation 'com.github.LuckSiege.PictureSelector:picture_library:v2.4.2'
+
+    implementation 'androidx.constraintlayout:constraintlayout:1.1.3'
+}
