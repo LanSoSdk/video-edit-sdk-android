@@ -8,6 +8,7 @@
 - Including: Video editing SDK and AE template SDK;
 - Our complete demo demo apk, you can download it from here:
 - APK link ： https://www.pgyer.com/L20O
+- google play link: https://play.google.com/store/apps/details?id=com.lansong.sdk
 - If you want to test our SDK, you can ask us for all the demo source code.
  
 ## SDK function introduction.
