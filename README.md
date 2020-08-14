@@ -1,15 +1,11 @@
-### This is the simplest demo of Lansong SDK(SDK最简单的演示).
+### This is the simplest demo of Lansong SDK.
 
-- **Our SDK has been established for more than 3 years. To facilitate downloading, the code was migrated from the original warehouse.(sdk已经运行3年多, 为了方便下载,从原仓库迁移而来)**
-- Original warehouse address(原仓库地址):  https://github.com/LanSoSdk/LanSoEditor_advance
-
-#### The current version is 4.2.5
+#### The current version is 4.2.8
  [中文说明](https://github.com/LanSoSdk/LanSoEditor_advance/blob/master/README.cn.md)
 - Including: Video editing SDK and AE template SDK;
 - Our complete demo demo apk, you can download it from here:
-- APK link ： https://www.pgyer.com/L20O
 - google play link: https://play.google.com/store/apps/details?id=com.lansong.sdk
-- If you want to test our SDK, you can ask us for all the demo source code.
+
  
 ## SDK function introduction.
 #### Video editing SDK:

@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Gradle: ./LanSongSDK/libs/lansongeditor_hx.jar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/LanSongSDK/libs/lansongeditor_hx.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

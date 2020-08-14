@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/LanSongSDK/LanSongSDK.iml" filepath="$PROJECT_DIR$/.idea/modules/LanSongSDK/LanSongSDK.iml" group="video-edit-sdk-android/LanSongSDK" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="video-edit-sdk-android/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/video-edit-sdk-android.iml" filepath="$PROJECT_DIR$/.idea/modules/video-edit-sdk-android.iml" group="video-edit-sdk-android" />
+    </modules>
+  </component>
+</project>
