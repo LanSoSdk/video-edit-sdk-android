@@ -1,4 +1,4 @@
-### This is the simplest demo of Lansong SDK.
+### This is the simplest demo of Lansong SDK (business, paid 商业付费.).
 
 #### The current version is 4.2.8
  [中文说明](https://github.com/LanSoSdk/LanSoEditor_advance/blob/master/README.cn.md)
@@ -39,6 +39,6 @@
 #### contact us
 - email: support@lansongtech.com
 - web: www.lansongtech.com
-- WhatsApp :  +8618006716739
+- WhatsApp :  +8618006716739 (business, paid.)
 
 
