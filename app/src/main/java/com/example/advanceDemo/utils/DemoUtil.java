@@ -49,7 +49,6 @@ public class DemoUtil {
         if(year>limitYear &&  month>=limitMonth){
             DemoUtil.showDialog(activity, "SDK 已经过期,请联系我们更新.(time out.)");
         }
-
     }
 
     static boolean deleteDir(File dir) {
