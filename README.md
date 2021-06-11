@@ -1,10 +1,10 @@
 ### This is the simplest demo of Lansong SDK (business, paid 商业付费.).
 
-#### The current version is 4.5.0
+#### The current version is 4.5.6
  [中文说明](https://github.com/LanSoSdk/LanSoEditor_advance/blob/master/README.cn.md)
 - Including: Video editing SDK and AE template SDK;
 - Our complete demo demo apk, you can download it from here:
-- full demo app link(完整demo下载) : https://www.pgyer.com/L20O
+- full demo app link(完整demo下载) : https://www.pgyer.com/LanSongAndroid
 
  
  
